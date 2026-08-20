@@ -1,0 +1,6 @@
+{
+  "name": "Android App Official Site & AdMob app-ads.txt",
+  "description": "الموقع الرسمي لتطبيق Android متوافق مع صفحة المطور في Google Play ومجهز للتحقق من ملف AdMob app-ads.txt وسياسة الخصوصية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
